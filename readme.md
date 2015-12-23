@@ -1,3 +1,3 @@
 # Fallout Stories
 
-Хоумрулы для игры по вселенной Fallout на движке *W
+Материалы для игры Dust in the Wind по вселенной Fallout, powered by AW
